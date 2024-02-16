@@ -1,3 +1,5 @@
+![UAV Tracking](UAV-project.png)
+
 EECE 562 - Term Project
 Student: Marley Beckett & Idan Roth
 
